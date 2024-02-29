@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\bin\Debug\net6.0\ModelLayer.deps.json
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\bin\Debug\net6.0\ModelLayer.runtimeconfig.json
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\bin\Debug\net6.0\ModelLayer.dll
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\bin\Debug\net6.0\ModelLayer.pdb
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.AssemblyInfo.cs
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.dll
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\refint\ModelLayer.dll
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.pdb
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.genruntimeconfig.cache
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ref\ModelLayer.dll
+C:\Users\Hp\source\repos\BookStore_WebAPI\ModelLayer\obj\Debug\net6.0\ModelLayer.sourcelink.json
