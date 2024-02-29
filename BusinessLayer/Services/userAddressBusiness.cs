@@ -1,5 +1,6 @@
 ﻿using BusinessLayer.Interfaces;
 using ModelLayer.Models;
+using RepositoryLayer.Entities;
 using RepositoryLayer.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -20,6 +21,11 @@ namespace BusinessLayer.Services
         public AddressModel AddAdress(AddressModel address, int userId)
         {
             return _iuserAddressRepo.AddAdress(address, userId);
+        }
+
+        public IEnumerable<addressEntity> GetAddress(int userId)
+        {
+            return _iuserAddressRepo.GetAddress(userId);
         }
     }
 }

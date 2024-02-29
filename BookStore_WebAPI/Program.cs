@@ -28,6 +28,10 @@ namespace BookStore_WebAPI
             builder.Services.AddTransient<IWishListRepo, wishListRepo>();
             builder.Services.AddTransient<IReviewBusiness, ReviewBusiness>();
             builder.Services.AddTransient<IReviewRepo, reviewRepo>();
+            builder.Services.AddTransient<IBookOrderBusiness, bookOrderBusiness>();
+            builder.Services.AddTransient<IBookOrderRepo, bookOrderRepo>();
+            builder.Services.AddTransient<IBookCartBusiness,BookCartBusiness>();
+            builder.Services.AddTransient<IBookCartRepo, bookCartRepo>();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
